@@ -3,16 +3,28 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 14
   productGUID: fc003f8700d260649b7e4fbb6f56f6a3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
+=======
+  serializedVersion: 15
+  productGUID: 32039a489456d64409fda0f0c95ce86e
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+>>>>>>> New
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: practice
+=======
+  productName: Gam150VersionControlTest
+>>>>>>> New
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -51,7 +63,10 @@ PlayerSettings:
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
+<<<<<<< HEAD
   tizenShowActivityIndicatorOnLoading: -1
+=======
+>>>>>>> New
   iosAppInBackgroundBehavior: 0
   displayResolutionDialog: 1
   iosAllowHTTPDownload: 1
@@ -64,10 +79,16 @@ PlayerSettings:
   preserveFramebufferAlpha: 0
   disableDepthAndStencilBuffers: 0
   androidBlitType: 0
+<<<<<<< HEAD
   defaultIsFullScreen: 1
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
   runInBackground: 0
+=======
+  defaultIsNativeResolution: 1
+  macRetinaSupport: 1
+  runInBackground: 1
+>>>>>>> New
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
@@ -81,7 +102,11 @@ PlayerSettings:
   resizableWindow: 0
   useMacAppStoreValidation: 0
   macAppStoreCategory: public.app-category.games
+<<<<<<< HEAD
   gpuSkinning: 0
+=======
+  gpuSkinning: 1
+>>>>>>> New
   graphicsJobs: 0
   xboxPIXTextureCapture: 0
   xboxEnableAvatar: 0
@@ -91,8 +116,12 @@ PlayerSettings:
   visibleInBackground: 1
   allowFullscreenSwitch: 1
   graphicsJobMode: 0
+<<<<<<< HEAD
   macFullscreenMode: 2
   d3d11FullscreenMode: 1
+=======
+  fullscreenMode: 1
+>>>>>>> New
   xboxSpeechDB: 0
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
@@ -108,6 +137,7 @@ PlayerSettings:
   xboxOneLoggingLevel: 1
   xboxOneDisableEsram: 0
   xboxOnePresentImmediateThreshold: 0
+<<<<<<< HEAD
   videoMemoryForVertexBuffers: 0
   psp2PowerMode: 0
   psp2AcquireBGM: 1
@@ -120,13 +150,25 @@ PlayerSettings:
   wiiUSupportsProController: 0
   wiiUAllowScreenCapture: 1
   wiiUControllerCount: 0
+=======
+  switchQueueCommandMemory: 0
+  videoMemoryForVertexBuffers: 0
+  psp2PowerMode: 0
+  psp2AcquireBGM: 1
+  vulkanEnableSetSRGBWrite: 0
+  vulkanUseSWCommandBuffers: 0
+>>>>>>> New
   m_SupportedAspectRatios:
     4:3: 1
     5:4: 1
     16:10: 1
     16:9: 1
     Others: 1
+<<<<<<< HEAD
   bundleVersion: 1.0
+=======
+  bundleVersion: 0.1
+>>>>>>> New
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -150,6 +192,10 @@ PlayerSettings:
     oculus:
       sharedDepthBuffer: 0
       dashSupport: 0
+<<<<<<< HEAD
+=======
+    enable360StereoCapture: 0
+>>>>>>> New
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   m_ColorGamuts: 00000000
@@ -172,12 +218,19 @@ PlayerSettings:
   CreateWallpaper: 0
   APKExpansionFiles: 0
   keepLoadedShadersAlive: 0
+<<<<<<< HEAD
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask:
     serializedVersion: 2
     m_Bits: 238
   iPhoneSdkVersion: 988
   iOSTargetOSVersionString: 7.0
+=======
+  StripUnusedMeshComponents: 1
+  VertexChannelCompressionMask: 4054
+  iPhoneSdkVersion: 988
+  iOSTargetOSVersionString: 8.0
+>>>>>>> New
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 9.0
@@ -238,13 +291,30 @@ PlayerSettings:
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
+<<<<<<< HEAD
   appleEnableAutomaticSigning: 0
   clonedFromGUID: 00000000000000000000000000000000
   AndroidTargetDevice: 0
+=======
+  iOSManualSigningProvisioningProfileType: 0
+  tvOSManualSigningProvisioningProfileType: 0
+  appleEnableAutomaticSigning: 0
+  iOSRequireARKit: 0
+  appleEnableProMotion: 0
+  vulkanEditorSupport: 0
+  clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
+  templatePackageId: com.unity.3d@1.0.2
+  templateDefaultScene: Assets/Scenes/SampleScene.unity
+  AndroidTargetArchitectures: 5
+>>>>>>> New
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
+<<<<<<< HEAD
+=======
+  AndroidBuildApkPerCpuArchitecture: 0
+>>>>>>> New
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
   AndroidEnableTango: 0
@@ -257,9 +327,48 @@ PlayerSettings:
   androidGamepadSupportLevel: 0
   resolutionDialogBanner: {fileID: 0}
   m_BuildTargetIcons: []
+<<<<<<< HEAD
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings: []
+=======
+  m_BuildTargetPlatformIcons: []
+  m_BuildTargetBatching:
+  - m_BuildTarget: Standalone
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: tvOS
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: Android
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: iPhone
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+  - m_BuildTarget: WebGL
+    m_StaticBatching: 0
+    m_DynamicBatching: 0
+  m_BuildTargetGraphicsAPIs:
+  - m_BuildTarget: AndroidPlayer
+    m_APIs: 0b00000015000000
+    m_Automatic: 1
+  - m_BuildTarget: iOSSupport
+    m_APIs: 10000000
+    m_Automatic: 1
+  - m_BuildTarget: AppleTVSupport
+    m_APIs: 10000000
+    m_Automatic: 0
+  - m_BuildTarget: WebGLSupport
+    m_APIs: 0b000000
+    m_Automatic: 1
+  m_BuildTargetVRSettings:
+  - m_BuildTarget: Standalone
+    m_Enabled: 0
+    m_Devices:
+    - Oculus
+    - OpenVR
+>>>>>>> New
   m_BuildTargetEnableVuforiaSettings: []
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
@@ -269,6 +378,7 @@ PlayerSettings:
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
+<<<<<<< HEAD
   wiiUTitleID: 0005000011000000
   wiiUGroupID: 00010000
   wiiUCommonSaveSize: 4096
@@ -288,6 +398,11 @@ PlayerSettings:
   wiiUDrcBufferDisabled: 0
   wiiUProfilerLibPath: 
   playModeTestRunnerEnabled: 0
+=======
+  m_BuildTargetGroupLightmapSettings: []
+  playModeTestRunnerEnabled: 0
+  runPlayModeTestAsEditModeTest: 0
+>>>>>>> New
   actionOnDotNetUnhandledException: 1
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
@@ -408,6 +523,12 @@ PlayerSettings:
   switchAllowsRuntimeAddOnContentInstall: 0
   switchDataLossConfirmation: 0
   switchSupportedNpadStyles: 3
+<<<<<<< HEAD
+=======
+  switchNativeFsCacheSize: 32
+  switchIsHoldTypeHorizontal: 0
+  switchSupportedNpadCount: 8
+>>>>>>> New
   switchSocketConfigEnabled: 0
   switchTcpInitialSendBufferSize: 32
   switchTcpInitialReceiveBufferSize: 64
@@ -463,6 +584,10 @@ PlayerSettings:
   ps4pnFriends: 1
   ps4pnGameCustomData: 1
   playerPrefsSupport: 0
+<<<<<<< HEAD
+=======
+  enableApplicationExit: 0
+>>>>>>> New
   restrictedAudioUsageRights: 0
   ps4UseResolutionFallback: 0
   ps4ReprojectionSupport: 0
@@ -533,42 +658,70 @@ PlayerSettings:
   psp2InfoBarOnStartup: 0
   psp2InfoBarColor: 0
   psp2ScriptOptimizationLevel: 0
+<<<<<<< HEAD
   psmSplashimage: {fileID: 0}
+=======
+>>>>>>> New
   splashScreenBackgroundSourceLandscape: {fileID: 0}
   splashScreenBackgroundSourcePortrait: {fileID: 0}
   spritePackerPolicy: 
   webGLMemorySize: 256
   webGLExceptionSupport: 1
   webGLNameFilesAsHashes: 0
+<<<<<<< HEAD
   webGLDataCaching: 0
+=======
+  webGLDataCaching: 1
+>>>>>>> New
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
   webGLModulesDirectory: 
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
+<<<<<<< HEAD
   webGLUseWasm: 0
   webGLCompressionFormat: 1
   scriptingDefineSymbols: {}
   platformArchitecture: {}
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
+=======
+  webGLCompressionFormat: 1
+  webGLLinkerTarget: 1
+  scriptingDefineSymbols: {}
+  platformArchitecture: {}
+  scriptingBackend: {}
+  il2cppCompilerConfiguration: {}
+  incrementalIl2cppBuild: {}
+  allowUnsafeCode: 0
+>>>>>>> New
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 0
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: practice
+=======
+  metroPackageName: Template_3D
+>>>>>>> New
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: practice
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
+=======
+  metroApplicationDescription: Template_3D
+  wsaImages: {}
+  metroTileShortName: 
+>>>>>>> New
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -584,6 +737,7 @@ PlayerSettings:
   metroFTAFileTypes: []
   metroProtocolName: 
   metroCompilationOverrides: 1
+<<<<<<< HEAD
   tizenProductDescription: 
   tizenProductURL: 
   tizenSigningProfileName: 
@@ -592,6 +746,8 @@ PlayerSettings:
   tizenDeploymentTarget: 
   tizenDeploymentTargetType: -1
   tizenMinOSVersion: 1
+=======
+>>>>>>> New
   n3dsUseExtSaveData: 0
   n3dsCompressStaticMem: 1
   n3dsExtSaveDataNumber: 0x12345
@@ -612,6 +768,10 @@ PlayerSettings:
   XboxOneGameOsOverridePath: 
   XboxOnePackagingOverridePath: 
   XboxOneAppManifestOverridePath: 
+<<<<<<< HEAD
+=======
+  XboxOneVersion: 1.0.0.0
+>>>>>>> New
   XboxOnePackageEncryption: 0
   XboxOnePackageUpdateGranularity: 2
   XboxOneDescription: 
@@ -625,17 +785,31 @@ PlayerSettings:
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
+<<<<<<< HEAD
+=======
+  XboxOneXTitleMemory: 8
+>>>>>>> New
   xboxOneScriptCompiler: 0
   vrEditorSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
+<<<<<<< HEAD
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 
   projectName: 
   organizationId: 
+=======
+  cloudServicesEnabled:
+    UNet: 1
+  facebookSdkVersion: 7.9.4
+  apiCompatibilityLevel: 2
+  cloudProjectId: 74a2c7ca-e759-4eba-9f9f-9bfd978d3be6
+  projectName: Gam150VersionControlTest
+  organizationId: natedog769
+>>>>>>> New
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
